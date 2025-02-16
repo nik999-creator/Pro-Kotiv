@@ -1,0 +1,48 @@
+ body {
+            font-family:sans-serif;
+            background: #f8f8f8;
+            text-align: center;
+        }
+        header {
+            background-color: red;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+            border-radius: 15px;
+        }
+        .logo{
+    width: 219px;
+    height: 160px;
+} 
+      footer {
+            background-color: red;
+            color: white;
+            padding: 10px;
+            margin-top: 20px;
+            
+        }
+      nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    background-color: red;
+    color: white;
+    font-size: 16px;
+    padding: 10px 25px;
+    border-radius: 25px;
+    
+}  
+nav{
+   margin: 10px 0px;
+   text-align: center;
+}
+a{
+    text-decoration: none;
+    
+    background-color: red;
+    color: white;
+    font-size: 16px;
+    padding: 10px 25px;
+    border-radius: 25px;
+    
+
+}
